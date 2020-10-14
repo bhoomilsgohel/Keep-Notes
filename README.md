@@ -1,2 +1,2 @@
 # Keeper-App
-Created with CodeSandbox
+Created a notes keeping app using React. Cheers!
